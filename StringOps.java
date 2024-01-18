@@ -1,4 +1,8 @@
-public static void main(String[] args) {
+public class StringOps {
+	public static void main(String[] args) {
+	
+	}
+	
 	private static char characterToLowerCase(char c) {
         if (c >= 'A' && c <= 'Z') {
             return (char)(c + 32);
